@@ -23,4 +23,4 @@ Screenshots:
   <img src="https://github.com/daniel-ishara/contacts_manager/blob/master/Screen5.png" width="350"  title="Contacts Manager">
 </p>
 
-Baseado no curso 'Criação de Apps Android e iOS com Flutter' - Daniel Ciolfi
+Based on the course 'Criação de Apps Android e iOS com Flutter' - Daniel Ciolfi
