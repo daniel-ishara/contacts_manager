@@ -4,13 +4,21 @@ An application designed to manage phone contacts
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project allows the user to create and manage a contacts list.
 
-A few resources to get you started if this is your first Flutter project:
+A 'Contact' is composed by a name [required], a phone number, an email and an image.
+A 'Contact' supports CRUD (create, read, update and delete) operations, and are saved locally using sqflite.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The contacts list can be sorted alphabetically.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots:
+
+<p align="center">
+   <img src="https://github.com/daniel-ishara/contacts_manager/blob/master/Screen1.png" width="350" title="Contacts Manager">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/daniel-ishara/contacts_manager/blob/master/Screen3.png" width="350"  title="Contacts Manager">
+</p>
+
+<p align="center">
+  <img src="https://github.com/daniel-ishara/contacts_manager/blob/master/Screen5.png" width="350"  title="Contacts Manager">
+</p>
